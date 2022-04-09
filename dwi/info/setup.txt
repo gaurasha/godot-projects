@@ -1,0 +1,4 @@
+
+youtube c++ setup tutorial : https://www.youtube.com/watch?v=XPcSfXsoArQ&t
+godot docs : https://docs.godotengine.org/en/stable/tutorials/scripting/gdnative/gdnative_cpp_example.html?highlight=cpp
+
